@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="994a6212-6e86-417d-aa68-682b64080a67" name="Changes" comment="" />
+    <list default="true" id="994a6212-6e86-417d-aa68-682b64080a67" name="Changes" comment="Привет">
+      <change afterPath="$PROJECT_DIR$/src/BobyEypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Competing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoadCapacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfSeats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trucks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="https_/github.com/Fatima38278857/HW-5-Kyrs-2.git" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LYi3GioOrlgf86PRplyABt75lI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,13 +50,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +65,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676054218074</updated>
+      <workItem from="1676054219934" duration="217000" />
+      <workItem from="1676057302933" duration="100000" />
+      <workItem from="1676057430361" duration="50000" />
+      <workItem from="1676057574256" duration="130000" />
+      <workItem from="1676057733362" duration="31000" />
+      <workItem from="1676057781081" duration="62000" />
+      <workItem from="1676057943011" duration="200000" />
+      <workItem from="1676058164030" duration="41000" />
+      <workItem from="1676058223290" duration="32000" />
+      <workItem from="1676058283742" duration="291000" />
+      <workItem from="1676058646447" duration="81000" />
+      <workItem from="1676058745883" duration="3644000" />
+      <workItem from="1676138515428" duration="5956000" />
+      <workItem from="1676222437622" duration="2625000" />
+      <workItem from="1676370186270" duration="5077000" />
+      <workItem from="1676375955253" duration="6315000" />
     </task>
+    <task id="LOCAL-00001" summary="Привет">
+      <created>1676054359964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676054359964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,5 +105,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Привет" />
+    <option name="LAST_COMMIT_MESSAGE" value="Привет" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
